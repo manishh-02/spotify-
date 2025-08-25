@@ -34,11 +34,5 @@ Start the development by running file index.html with live server extension.
 
 <hr>
   
-## Contact
 
-If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Chirag_Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragnagar047/)
-[![GitHub](https://img.shields.io/badge/Chirag_Nagar-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Chirag047)
-
-[@Chirag047](https://github.com/Chirag047)
